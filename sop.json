@@ -1,0 +1,36 @@
+{
+  "business_name": "Bloom Aesthetics Clinic",
+  "operating_hours": {
+    "days": "Monday to Saturday",
+    "hours": "9:00 AM - 7:00 PM",
+    "sunday": "Closed"
+  },
+  "services": [
+    {
+      "name": "Botox",
+      "price": "from £200",
+      "description": "Anti-wrinkle injections to smooth fine lines and wrinkles."
+    },
+    {
+      "name": "Fillers",
+      "price": "from £250",
+      "description": "Dermal fillers to restore volume and enhance facial features."
+    },
+    {
+      "name": "Consultations",
+      "price": "free of charge",
+      "description": "One-on-one session with a qualified practitioner to discuss treatment options."
+    }
+  ],
+  "booking_channels": [
+    "WhatsApp",
+    "Website"
+  ],
+  "cancellation_policy": "A minimum of 24 hours notice is required for any booking cancellation or rescheduling.",
+  "escalation_triggers": {
+    "complaints_and_frustrations": "Any customer complaints, expressions of frustration, or reports of negative experiences.",
+    "medical_questions": "Any inquiries seeking medical advice, detailed side effects, treatment safety, contraindications, or post-treatment complications.",
+    "pricing_negotiation": "Any attempts to negotiate prices, ask for discounts, or request cheaper rates than those listed.",
+    "unanswered_questions_limit": "If the customer asks more than 2 questions that are out-of-scope or cannot be answered using this SOP."
+  }
+}
